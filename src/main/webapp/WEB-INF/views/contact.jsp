@@ -45,8 +45,7 @@
 					class="form-control" 
 					id="exampleInputPassword1"
 					placeholder="Password"
-					name="password"
-					>
+					name="password">
 			</div>
 		
 		<div class="container text-center">
